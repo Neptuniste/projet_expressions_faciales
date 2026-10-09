@@ -1,0 +1,11 @@
+# Environnement Python cree par installer_demo.bat
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Captures d'ecran de la demo (touche s)
+captures/
+
+# Sujet du projet (document de l'enseignant, non publie)
+Sujet_Projet_DL_Expressions_faciales.pdf

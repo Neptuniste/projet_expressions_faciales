@@ -1,0 +1,16 @@
+{
+  "classes": [
+    "Colere",
+    "Degout",
+    "Peur",
+    "Joie",
+    "Tristesse",
+    "Surprise",
+    "Neutre"
+  ],
+  "facteur": 1.03,
+  "decalage_y": 0.0,
+  "modele": "modele_final.keras",
+  "detecteur": "yolov8n-face.pt",
+  "experience": "E5_conditions_reelles"
+}
